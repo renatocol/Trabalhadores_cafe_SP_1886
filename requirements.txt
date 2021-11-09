@@ -1,6 +1,6 @@
 numpy==1.21.4
 pandas==1.3.4
-holoview==1.14.6
+holoviews==1.14.6
 hvplot==0.7.3
 pane==0.12.4
 
