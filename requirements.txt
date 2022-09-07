@@ -1,3 +1,4 @@
+python==3.9.13
 numpy==1.21.4
 pandas==1.4.4
 holoviews==1.15.0
