@@ -6,3 +6,4 @@ hvplot==0.8.1
 matplotlib==3.5.3
 panel==0.13.1
 openpyxl==3.0.9
+Flask==2.1.0
